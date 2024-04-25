@@ -1,0 +1,6 @@
+author: n!c
+description: Village Game Plugin
+name: VillageGame
+version: 1.0
+api-version: 1.18
+main: de.dopebrot.Program
